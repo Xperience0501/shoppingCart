@@ -1,0 +1,45 @@
+.Summary {
+    display: flex;
+    flex-direction: column;
+}
+.SummaryLabels {
+    display: flex;
+    justify-content: space-between;
+}
+.Checkout {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 15% 10%;
+}
+.SummaryPadding {
+    padding: 0% 10% 0% 0%;
+}
+.SummaryPadding div {
+    padding-top: 5%;
+}
+.CheckoutBtn {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    width: 170px;
+}
+.BtnDiv {
+    padding: 10% 0%;
+}
+.blueText {
+    color: blue;
+    cursor: pointer;
+}
+.Grey {
+    color: #999;
+}
+.Pointer {
+    cursor: pointer;
+}
+.NotAllowed {
+    cursor: not-allowed !important;
+}

@@ -1,0 +1,97 @@
+.container {
+    display: flex;
+    border-top: 1px solid whitesmoke;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    align-items: center;
+}
+.mainBody {
+    margin: 0 5% 5% 5%;
+    background-color: white;
+    border-radius: 1%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #CCC;
+}
+.main {
+    background-color: #EEE;
+    padding-bottom: 10%;
+    padding-top: 30px;
+}
+.Grey {
+    color: grey;
+}
+.CashBack {
+    background-color: darkblue;
+    color: white;
+    padding: 5px 10px;
+}
+.Bold {
+    font-weight: bold;
+}
+.Link {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+.listHeader {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    color: #555;
+    border-bottom: 1px solid #CCC;
+}
+.imageBox {
+    border: 1px solid whitesmoke;
+    border-radius: 2px;
+    background-color: white;
+    padding: 25px;
+}
+.Banner {
+    width: 92%;
+    background-color: #728FCE;
+    padding: 15px 0px 15px 0px;
+    margin: auto;
+    color: white;
+}
+.ShoppingHeader {
+    margin-top: 5%;
+    display: flex;
+    padding-left: 6%;
+}
+.controller {
+    display: flex;
+    justify-self: normal;
+    align-items: center;
+}
+h2 {
+    font-weight: 100;
+    font-size: -webkit-xxx-large;
+}
+.quantity {
+    border: 1px solid grey;
+    padding: 3px 6px;
+}
+.textAlignLeft {
+    text-align: left;
+}
+.Pointer {
+    cursor: pointer;
+}
+.Product {
+    display: flex;
+}
+.ch45 {
+    flex-grow: 45%;
+}
+.ch15 {
+    flex-grow: 15%;
+}
+.ch10 {
+    flex-grow: 10%;
+}
+.leftPadding {
+    padding-left: 15px;
+}

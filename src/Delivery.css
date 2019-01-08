@@ -1,0 +1,32 @@
+.blueText {
+    color: blue;
+    cursor: pointer;
+}
+.DeliveryContainer {
+    display: flex;
+}
+.availability {
+    display: flex;
+}
+.ch1 {
+    flex-grow: 1;
+}
+.ch2 {
+    flex-grow: 2;
+}
+.inputBox {
+    text-decoration: none;
+}
+.inputBox {
+    align-items: flex-start !important;
+}
+.Grey {
+    color: #999;
+}
+.alignLeft {
+    text-align: left;
+}
+.paddingDeliveryDivs {
+    padding-bottom: 15px;
+    padding-left: 30px;
+}

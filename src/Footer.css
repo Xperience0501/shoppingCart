@@ -1,0 +1,57 @@
+.alignRight {
+    text-align: right;
+}
+.footerColor {
+    background-color: #222;
+    color: white;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+.container1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.footerPadding {
+    padding-bottom: 15%;
+    padding-right: 2%;
+}
+.marginAround {
+    margin: 0 35px;
+}
+.mtop10 {
+    margin-top: 10px;
+}
+.alignPhone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 20px;
+}
+.alignTiming {
+    display: flex;
+    flex-direction: column;
+}
+.alignTimings {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+.rightBorder {
+    border-left: 1px solid white;
+    padding-left: 30px;
+}
+.bottomPadding {
+    padding-bottom: 7px;
+}
+.Pointer {
+    cursor: pointer;
+}
+.leftBorder {
+    padding: 0 5px 0 5px;
+    border-left: 1px solid white;
+}
+.alignLeft {
+    text-align: left;
+}
